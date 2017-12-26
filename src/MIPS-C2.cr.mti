@@ -50,7 +50,7 @@ Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
 Top level modules:
 	mux
 
-} {} {}} D:/study/MIPS/multi-cycle/PC.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/PC.v
+} {} {}} D:/study/MIPS/multi-cycle/PC.v {1 {vlog -work work -vopt {D:\study\MIPS\multi-cycle\PC.v}
 Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
 -- Compiling module PCUnit
 
@@ -71,19 +71,19 @@ Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
 Top level modules:
 	BEUnit
 
-} {} {}} D:/study/MIPS/multi-cycle/LHANDLE.v {1 {vlog -work work -vopt {D:\study\MIPS\multi-cycle\LHANDLE.v}
-Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
--- Compiling module LHandle
-
-Top level modules:
-	LHandle
-
-} {} {}} D:/study/MIPS/multi-cycle/RF.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/RF.v
+} {} {}} D:/study/MIPS/multi-cycle/RF.v {1 {vlog -work work -vopt {D:\study\MIPS\multi-cycle\RF.v}
 Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
 -- Compiling module RF
 
 Top level modules:
 	RF
+
+} {} {}} D:/study/MIPS/multi-cycle/LHANDLE.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/LHANDLE.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module LHandle
+
+Top level modules:
+	LHandle
 
 } {} {}} D:/study/MIPS/multi-cycle/ctrl.v {1 {vlog -work work -vopt {D:\study\MIPS\multi-cycle\ctrl.v}
 Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
@@ -92,18 +92,18 @@ Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
 Top level modules:
 	ctrl
 
-} {} {}} D:/study/MIPS/multi-cycle/mips_tb.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/mips_tb.v
-Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
--- Compiling module mips_tb
-
-Top level modules:
-	mips_tb
-
 } {} {}} D:/study/MIPS/multi-cycle/im.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/im.v
 Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
 -- Compiling module im_4k
 
 Top level modules:
 	im_4k
+
+} {} {}} D:/study/MIPS/multi-cycle/mips_tb.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/mips_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mips_tb
+
+Top level modules:
+	mips_tb
 
 } {} {}}

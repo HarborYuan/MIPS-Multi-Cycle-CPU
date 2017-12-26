@@ -7,11 +7,15 @@ module PCUnit(in,PC,clk,sig);
     initial
     begin
         PC = 32'h0000_3000;
+        $display("PC: %h",PC);
     end
     always@(negedge clk)
 	begin
 		if (sig)
-            PC = in;
+            begin
+                PC = in;
+                $display("PC: %h",PC);
+            end
 	end
 
 endmodule

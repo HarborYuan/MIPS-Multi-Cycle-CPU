@@ -29,5 +29,8 @@ module RF(A1, A2, A3, WD, RFWr, clk, RD1, RD2);
   begin
   if (RFWr&&A3!=0)
     data[A3]<=WD;
+  #4
+  for (i=0;i<32;i=i+1)
+    $display("Reg%d:%h",i,data[i]);
   end
 endmodule

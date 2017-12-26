@@ -4,9 +4,9 @@ K3
 cModel Technology
 dD:\study\Modelsim\verilog
 T_opt
-VXI=CWYhDMTiS9N5AV[7h@3
+V@i^93m]DN<<JRjzmD7Ukc2
 04 7 4 work mips_tb fast 0
-=10-28f10e494e50-5a40835d-35f-2540
+=12-28f10e494e50-5a422b2e-399-306c
 o-quiet -auto_acc_if_foreign -work work +acc
 n@_opt
 OE;O;10.1a;51
@@ -25,7 +25,7 @@ Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
 n@a@l@u
 !s100 1Hhj]CI8D>^UQ:4jdmLZA3
 !s90 -reportprogress|300|-work|work|-vopt|D:/study/MIPS/multi-cycle/ALU.v|
-!s108 1514177227.371000
+!s108 1514285648.609000
 !s107 ./alu_def.v|D:/study/MIPS/multi-cycle/ALU.v|
 !i10b 1
 !s85 0
@@ -43,9 +43,9 @@ r1
 R2
 n@b
 !s100 EEHhFeG2CV1]4X6ZT`c8T2
-!s108 1514177229.655000
-!s107 D:/study/MIPS/multi-cycle/B.v|
 !s90 -reportprogress|300|-work|work|-vopt|D:/study/MIPS/multi-cycle/B.v|
+!s108 1514285650.593000
+!s107 D:/study/MIPS/multi-cycle/B.v|
 !i10b 1
 !s85 0
 vBEUnit
@@ -63,15 +63,15 @@ R2
 n@b@e@unit
 !s100 KZBfVGkgTm>N`XBiT_^?J1
 !s90 -reportprogress|300|-work|work|-vopt|D:/study/MIPS/multi-cycle/BE.v|
-!s108 1514177229.371000
+!s108 1514285650.297000
 !s107 D:/study/MIPS/multi-cycle/BE.v|
 !i10b 1
 !s85 0
 vctrl
-Il?3^fZ;Dh;n>0z]mIb:n=3
+Ii2W8MUSNQzQNSYh5[P>oP3
 V]_6neI^WFEd65?Ce[K>j@1
 R3
-w1514177365
+w1514285701
 8D:\study\MIPS\multi-cycle\ctrl.v
 FD:\study\MIPS\multi-cycle\ctrl.v
 L0 2
@@ -80,11 +80,11 @@ r1
 31
 R2
 !s90 -reportprogress|300|-work|work|-vopt|D:\study\MIPS\multi-cycle\ctrl.v|
-!i10b 1
-!s100 7^ZVDZklVLhC^2okHjUhK1
-!s85 0
-!s108 1514177369.479000
+!s100 azmJ3AX[=3lUGdK_g_5KU0
+!s108 1514285707.775000
 !s107 ./alu_def.v|D:\study\MIPS\multi-cycle\ctrl.v|
+!i10b 1
+!s85 0
 vdm_4k
 IhFAWASNGMz4?=Va>EP6_h1
 Vf6[UWB^BBXH4>A^d@?`jj3
@@ -99,7 +99,7 @@ r1
 R2
 !s100 @QhN3;70F1ooNheKO11dK2
 !s90 -reportprogress|300|-work|work|-vopt|D:/study/MIPS/multi-cycle/dm.v|
-!s108 1514177227.192000
+!s108 1514285648.187000
 !s107 D:/study/MIPS/multi-cycle/dm.v|
 !i10b 1
 !s85 0
@@ -117,7 +117,7 @@ r1
 R2
 !s100 FH7LEQXQna05cfC^lh^`@0
 !s90 -reportprogress|300|-work|work|-vopt|D:/study/MIPS/multi-cycle/flopr.v|
-!s108 1514177227.625000
+!s108 1514285648.828000
 !s107 D:/study/MIPS/multi-cycle/flopr.v|
 !i10b 1
 !s85 0
@@ -135,34 +135,34 @@ r1
 R2
 !s100 k2AmVHSHSHiG>`4g9]@Xe1
 !s90 -reportprogress|300|-work|work|-vopt|D:/study/MIPS/multi-cycle/im.v|
-!s108 1514177226.908000
+!s108 1514285647.874000
 !s107 D:/study/MIPS/multi-cycle/im.v|
 !i10b 1
 !s85 0
 vLHandle
-I?QkSeZH;7l@oba7e2RQUY3
+Id0KZ;Q?bdHISmj1S5<QC?3
 VFVAhFmJN2HDcOS[NlMbOf2
 R3
 w1514175535
-8D:\study\MIPS\multi-cycle\LHANDLE.v
-FD:\study\MIPS\multi-cycle\LHANDLE.v
+8D:/study/MIPS/multi-cycle/LHANDLE.v
+FD:/study/MIPS/multi-cycle/LHANDLE.v
 L0 1
 R1
 r1
 31
 R2
 n@l@handle
-!s100 de5UY?mFiL:k^dLMSNOY11
-!s90 -reportprogress|300|-work|work|-vopt|D:\study\MIPS\multi-cycle\LHANDLE.v|
-!s108 1514177229.540000
-!s107 D:\study\MIPS\multi-cycle\LHANDLE.v|
+!s100 oXNR;Y;Pgk=VTC?X@ob@z1
+!s90 -reportprogress|300|-work|work|-vopt|D:/study/MIPS/multi-cycle/LHANDLE.v|
+!s108 1514285650.406000
+!s107 D:/study/MIPS/multi-cycle/LHANDLE.v|
 !i10b 1
 !s85 0
 vmips
 Ieeb0Q@NCEejPifncffj4e0
 V^lO[ZOI0I1e8M8GJjI9B:3
 R3
-w1514135847
+w1514284517
 8D:\study\MIPS\multi-cycle\mips.v
 FD:\study\MIPS\multi-cycle\mips.v
 L0 1
@@ -171,9 +171,9 @@ r1
 31
 R2
 !s100 ]f6:_>[U^4]8GREM;^b7m0
-!s108 1514177226.289000
-!s107 D:\study\MIPS\multi-cycle\mips.v|
 !s90 -reportprogress|300|-work|work|-vopt|D:\study\MIPS\multi-cycle\mips.v|
+!s108 1514285647.609000
+!s107 D:\study\MIPS\multi-cycle\mips.v|
 !i10b 1
 !s85 0
 vmips_tb
@@ -190,7 +190,7 @@ r1
 R2
 !s100 JzAlIGSRVX0c[MSoDz5PZ0
 !s90 -reportprogress|300|-work|work|-vopt|D:/study/MIPS/multi-cycle/mips_tb.v|
-!s108 1514177229.156000
+!s108 1514285650.078000
 !s107 D:/study/MIPS/multi-cycle/mips_tb.v|
 !i10b 1
 !s85 0
@@ -207,49 +207,49 @@ r1
 31
 R2
 !s100 _zc`[JY5zBQCe]FR1d6>l0
-!s108 1514177228.140000
-!s107 D:/study/MIPS/multi-cycle/mux.v|
 !s90 -reportprogress|300|-work|work|-vopt|D:/study/MIPS/multi-cycle/mux.v|
+!s108 1514285649.140000
+!s107 D:/study/MIPS/multi-cycle/mux.v|
 !i10b 1
 !s85 0
 vPCUnit
-I0S03m_KJT>ogYo=H48LoL0
+I>THYVRSZ57f_7I2bSN3f`0
 VKc<ZJm?0Hdg=Gk3WRDk_i0
 R3
-w1514023302
-8D:/study/MIPS/multi-cycle/PC.v
-FD:/study/MIPS/multi-cycle/PC.v
+w1514284791
+8D:\study\MIPS\multi-cycle\PC.v
+FD:\study\MIPS\multi-cycle\PC.v
 L0 1
 R1
 r1
 31
 R2
 n@p@c@unit
-!s100 L7=WfIc0:O_>;@k@[4gzf1
-!s90 -reportprogress|300|-work|work|-vopt|D:/study/MIPS/multi-cycle/PC.v|
-!s108 1514177228.740000
-!s107 D:/study/MIPS/multi-cycle/PC.v|
+!s100 :VLY<9M99K^mO`^Y`?SBh1
+!s90 -reportprogress|300|-work|work|-vopt|D:\study\MIPS\multi-cycle\PC.v|
+!s108 1514285649.640000
+!s107 D:\study\MIPS\multi-cycle\PC.v|
 !i10b 1
 !s85 0
 vRF
-I<P7D0f9Zk4@46]0MzML7z1
+I_D<<hzk[l?YoJQS1Nb55?2
 VW97OAHM;XCbX<]`RmhA:V2
 R3
-w1514135210
-8D:/study/MIPS/multi-cycle/RF.v
-FD:/study/MIPS/multi-cycle/RF.v
+w1514285859
+8D:\study\MIPS\multi-cycle\RF.v
+FD:\study\MIPS\multi-cycle\RF.v
 L0 1
 R1
 r1
 31
 R2
 n@r@f
-!s100 2M=_`@7^I34zd]:AD[zzH3
-!s90 -reportprogress|300|-work|work|-vopt|D:/study/MIPS/multi-cycle/RF.v|
-!s108 1514177228.308000
-!s107 D:/study/MIPS/multi-cycle/RF.v|
 !i10b 1
+!s100 ;XJQXSljGiGABDdC?j9kK1
 !s85 0
+!s108 1514285867.827000
+!s107 D:\study\MIPS\multi-cycle\RF.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:\study\MIPS\multi-cycle\RF.v|
 vSE
 ICL<Rg13]5>FED?QiTn3Z72
 V4;HajegWazOlXXB02?4i]0
@@ -264,9 +264,9 @@ r1
 R2
 n@s@e
 !s100 KLhhAR?0:0=:>0`_<z^lP2
-!s108 1514177228.956000
-!s107 D:/study/MIPS/multi-cycle/SE.v|
 !s90 -reportprogress|300|-work|work|-vopt|D:/study/MIPS/multi-cycle/SE.v|
+!s108 1514285649.875000
+!s107 D:/study/MIPS/multi-cycle/SE.v|
 !i10b 1
 !s85 0
 vUE
@@ -283,8 +283,8 @@ r1
 R2
 n@u@e
 !s100 `BOPjWQ94HVhhdZiTGe>H0
-!s108 1514177229.871000
-!s107 D:/study/MIPS/multi-cycle/UE.v|
 !s90 -reportprogress|300|-work|work|-vopt|D:/study/MIPS/multi-cycle/UE.v|
+!s108 1514285650.796000
+!s107 D:/study/MIPS/multi-cycle/UE.v|
 !i10b 1
 !s85 0

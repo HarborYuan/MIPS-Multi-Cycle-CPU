@@ -224,5 +224,18 @@ PCSource, ALUOp, ALUSrcA, ALUSrcB, RFWr, RegWDa
             endcase
             end
         endcase
+        #2
+        $display("state:%d",i);
+        $display("IRWr:%d",IRWr);
+        $display("RFWr:%d",RFWr);
+        $display("DMWr:%d",DMWr);
+        $display("PCWrite:%d",PCWrite);
+        $display("PCWriteCond:%d",PCWriteCond);
+        $display("RegWAd:%d",RegWAd);
+        $display("RegWDa:%d",RegWDa);
+        $display("PCSource:%d",PCSource);
+        $display("ALUOp:%b",ALUOp);
+        $display("ALUSrcA:%d",ALUSrcA);
+        $display("ALUSrcB:%d",ALUSrcB);
     end
 endmodule

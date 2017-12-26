@@ -13,7 +13,7 @@ Jump Register={JALR、JR}</br></br>
 ## 状态含义
 |状态|指令|执行内容|
 |:-:|:-:|:-:|
-|0|MIPS-C2|开始指令，无具体执行内容|
+|0|MIPS-C2|开始周期，无具体执行内容|
 |1|MIPS-C2|取指令，并将其写入IR;</br>PC+4|
 |2|MIPS-C2|译码，读取寄存器中的rs，rt备用;</br>计算b型指令跳转地址备用|
 |3|R-type、I-type|ALU执行运算，结果存入ALUout|
@@ -54,3 +54,22 @@ Jump Register={JALR、JR}</br></br>
 |ALUOp|ALU控制指令|详见*alu_def.v*|
 |ALUSrcA|ALU输入1数据选择|0:PC</br>1:寄存器输出</br>2:shamt|
 |ALUSrcB|ALU输入2数据选择|0:寄存器输出</br>1:立即数4</br>2:符号扩展</br>3:符号扩展左移两位</br>4:无符号扩展|
+## 各模块功能
+|模块|模块功能|
+|:-:|:-:|
+|ALU.v|运算单元|
+|alu_def.v|运算单元的指令宏定义|
+|B.v|branch指令判断部分的逻辑处理|
+|BE.v|save指令数据内存操作码生成器|
+|ctrl.v|控制单元|
+|dm.v|数据内存|
+|flopr.v|简单触发器(时钟下降沿触发)|
+|im.v|指令内存|
+|LHANDLE.v|数据内存读取附加处理模块|
+|mips.v|CPU整体控制|
+|mips_tb.v|测试模块|
+|mux.v|多路选择器|
+|PC.v|PC存储器|
+|RF.v|寄存器|
+|SE.v|符号扩展|
+|UE.v|无符号扩展|
