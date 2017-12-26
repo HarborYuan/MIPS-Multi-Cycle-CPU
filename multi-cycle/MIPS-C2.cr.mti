@@ -1,0 +1,109 @@
+D:/study/MIPS/multi-cycle/SE.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/SE.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module SE
+
+Top level modules:
+	SE
+
+} {} {}} D:/study/MIPS/multi-cycle/alu_def.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/alu_def.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} D:/study/MIPS/multi-cycle/mips.v {1 {vlog -work work -vopt {D:\study\MIPS\multi-cycle\mips.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} D:/study/MIPS/multi-cycle/dm.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/dm.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dm_4k
+
+Top level modules:
+	dm_4k
+
+} {} {}} D:/study/MIPS/multi-cycle/UE.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/UE.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module UE
+
+Top level modules:
+	UE
+
+} {} {}} D:/study/MIPS/multi-cycle/B.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/B.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module B
+
+Top level modules:
+	B
+
+} {} {}} D:/study/MIPS/multi-cycle/ALU.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/ALU.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/study/MIPS/multi-cycle/mux.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/mux.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} D:/study/MIPS/multi-cycle/PC.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/PC.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module PCUnit
+
+Top level modules:
+	PCUnit
+
+} {} {}} D:/study/MIPS/multi-cycle/flopr.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/flopr.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module flopr
+
+Top level modules:
+	flopr
+
+} {} {}} D:/study/MIPS/multi-cycle/BE.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/BE.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module BEUnit
+
+Top level modules:
+	BEUnit
+
+} {} {}} D:/study/MIPS/multi-cycle/LHANDLE.v {1 {vlog -work work -vopt {D:\study\MIPS\multi-cycle\LHANDLE.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module LHandle
+
+Top level modules:
+	LHandle
+
+} {} {}} D:/study/MIPS/multi-cycle/RF.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/RF.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} D:/study/MIPS/multi-cycle/ctrl.v {1 {vlog -work work -vopt {D:\study\MIPS\multi-cycle\ctrl.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ctrl
+
+Top level modules:
+	ctrl
+
+} {} {}} D:/study/MIPS/multi-cycle/mips_tb.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/mips_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mips_tb
+
+Top level modules:
+	mips_tb
+
+} {} {}} D:/study/MIPS/multi-cycle/im.v {1 {vlog -work work -vopt D:/study/MIPS/multi-cycle/im.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module im_4k
+
+Top level modules:
+	im_4k
+
+} {} {}}
